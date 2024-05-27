@@ -1,13 +1,13 @@
 ## Project Description
 
-This project serves as a follow-up to [simple-weather-project](https://github.com/ekingit/simple-weather-project). It comprises two functions: the first of which takes a city name as input and produces a weather forecast. The second function takes a country name as input and generates forecasts for the five largest cities. Results are displayed in categorical graphs.
+This is a simple weather forecast project. It comprises two functions: the first of which takes a city name as input and produces a weather forecast. The second function takes a country name as input and generates forecasts for the five largest cities. Results are displayed in categorical graphs.
 
 
 ### Aim: 
 
 - Data extraction from the web and importation into SQL.
 - Learning to connect PostgreSQL database with Python to establish an API.
-- Familiarization with Python libraries such as psycopg2, matplotlib, pandas, and numpy.
+- Familiarization with Python libraries such as numpy, pandas, matplotlib and psycopg2.
 
 ### Files:
 
