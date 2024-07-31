@@ -65,7 +65,6 @@ def city_name(var):
         print(a_tuple[0],a_tuple[1],a_tuple[4],f"Coordinates {response.Latitude()}°N {response.Longitude()}°E")
         print(daily_dataframe)
 
-#similar function for a country. This time, it g
 dfl=[] #data frame list
 cl=[] #city list
 def country_name(var):
